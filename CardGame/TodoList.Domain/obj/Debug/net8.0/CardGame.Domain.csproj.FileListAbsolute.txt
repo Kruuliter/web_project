@@ -1,0 +1,14 @@
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.csproj.AssemblyReference.cache
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.AssemblyInfoInputs.cache
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.AssemblyInfo.cs
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.csproj.CoreCompileInputs.cache
+Z:\C#project\web_project\CardGame\TodoList.Domain\bin\Debug\net8.0\CardGame.Domain.deps.json
+Z:\C#project\web_project\CardGame\TodoList.Domain\bin\Debug\net8.0\CardGame.Domain.runtimeconfig.json
+Z:\C#project\web_project\CardGame\TodoList.Domain\bin\Debug\net8.0\CardGame.Domain.dll
+Z:\C#project\web_project\CardGame\TodoList.Domain\bin\Debug\net8.0\CardGame.Domain.pdb
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.dll
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\refint\CardGame.Domain.dll
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.pdb
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\CardGame.Domain.genruntimeconfig.cache
+Z:\C#project\web_project\CardGame\TodoList.Domain\obj\Debug\net8.0\ref\CardGame.Domain.dll
