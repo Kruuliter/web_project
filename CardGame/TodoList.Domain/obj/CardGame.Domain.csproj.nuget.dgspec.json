@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\C#project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj": {}
+    "Z:\\C#project\\web_project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj": {}
   },
   "projects": {
-    "Z:\\C#project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj": {
+    "Z:\\C#project\\web_project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\C#project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj",
+        "projectUniqueName": "Z:\\C#project\\web_project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj",
         "projectName": "CardGame.Domain",
-        "projectPath": "Z:\\C#project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj",
+        "projectPath": "Z:\\C#project\\web_project\\web_project\\CardGame\\TodoList.Domain\\CardGame.Domain.csproj",
         "packagesPath": "C:\\Users\\rseli\\.nuget\\packages\\",
-        "outputPath": "Z:\\C#project\\web_project\\CardGame\\TodoList.Domain\\obj\\",
+        "outputPath": "Z:\\C#project\\web_project\\web_project\\CardGame\\TodoList.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,19 +45,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

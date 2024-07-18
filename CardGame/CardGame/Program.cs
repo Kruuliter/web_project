@@ -1,4 +1,3 @@
-using Microsoft.EntityFrameworkCore;
 using CardGame.Domain;
 
 internal class Program
@@ -11,7 +10,9 @@ internal class Program
         builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
         var connectionString = builder.Configuration.GetConnectionString("Default");
-        builder.Services.AddDbContext<CardGameContext>(opt => opt.UseSqlServer(connectionString));
+
+        builder.Services.AddSingleton<CardGameConnectDb>(sp => { return new CardGameConnectDb(connectionString.ToString()); });
+        builder.Services.AddControllersWithViews();
 
         var app = builder.Build();
 
